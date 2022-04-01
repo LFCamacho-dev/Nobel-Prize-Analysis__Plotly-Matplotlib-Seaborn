@@ -10,6 +10,7 @@ plotly = "*"
 seaborn = "*"
 matplotlib = "*"
 nbformat = "*"
+statsmodels = "*"
 
 [dev-packages]
 
